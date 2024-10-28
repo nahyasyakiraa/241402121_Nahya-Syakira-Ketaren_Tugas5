@@ -1,0 +1,11 @@
+.card {
+    border: none;
+    border-radius: 10px;
+    background: none;
+}
+.card-title {
+    font-weight: bold;
+}
+.container {
+    margin-top: 50px;
+}
